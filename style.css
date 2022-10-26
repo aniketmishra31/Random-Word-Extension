@@ -1,0 +1,21 @@
+body{
+    text-align: center;
+    background-color: #B73E3E;
+}
+.box{
+    margin: 20% auto;
+    padding: 3% auto;
+    width: 20rem;
+    height: auto;
+}
+#Word{
+    font-size: 200%;
+    font-family: 'Montserrat', sans-serif;
+    color: #FDFDBD;
+}
+#def{
+    line-height: 2;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 180%;
+    color: #FDFDBD;
+}
